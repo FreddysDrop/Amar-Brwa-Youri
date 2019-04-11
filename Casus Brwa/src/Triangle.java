@@ -6,6 +6,6 @@ public class Triangle extends Shape {
 
     @Override
     public void fill() {
-        Boolean widthISEven
+        Boolean widthISEven; //TeST
     }
 }
