@@ -1,3 +1,5 @@
+package console;
+
 public abstract class Shape {
     private String pixels[][];
     protected final int SIZEX;

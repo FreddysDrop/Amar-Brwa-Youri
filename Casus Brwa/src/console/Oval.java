@@ -1,3 +1,5 @@
+package console;
+
 public class Oval extends Shape{
 
     public Oval(int SIZEX, int SIZEY) {
